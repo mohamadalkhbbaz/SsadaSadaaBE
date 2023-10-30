@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-BackEnd",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-BackEnd",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
