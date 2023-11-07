@@ -19,3 +19,7 @@
 .vscode/
 /bin/
 /obj/
+# Ignore cache files
+.cache/
+node_modules/
+*.log
