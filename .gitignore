@@ -8,3 +8,6 @@
 *.wsuo
 *.json
 *.sqlite
+*.dll
+*.pdb
+ 
