@@ -10,4 +10,5 @@
 *.sqlite
 *.dll
 *.pdb
+*.cache
  
