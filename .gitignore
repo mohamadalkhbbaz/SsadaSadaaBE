@@ -11,7 +11,11 @@
 *.dll
 *.pdb
 *.cache
- 
-/RepoPattern/RepoPattern.Api/RepoPattern.Api.csproj
-/RepoPattern/RepoPattern.sln
-/RepoPattern/RepoPattern.Api/obj/Debug/net6.0/RepoPattern.Api.pdb
+  # Ignore compiled files
+*.dll
+*.pdb
+
+# Ignore user-specific files
+.vscode/
+/bin/
+/obj/
