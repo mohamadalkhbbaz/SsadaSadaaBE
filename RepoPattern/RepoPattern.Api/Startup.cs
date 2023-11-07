@@ -30,7 +30,8 @@ namespace RepoPattern.Api
             });
 
             services.AddTransient(typeof(IBaseRepository<>), typeof(BaseRepository<>));
-            //services.AddTransient(typeof(IUnitOfWork), typeof(UnitOfWork));
+            services.AddTransient(typeof(IUnitOfWork), typeof(UnitOfWork));
+            services.AddTransient(typeof(IBookRepository), typeof(BookRepository));
 
         }
 

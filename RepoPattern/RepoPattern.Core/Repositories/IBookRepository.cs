@@ -7,11 +7,8 @@ using System.Threading.Tasks;
 
 namespace RepoPattern.Core.Repositories
 {
-    public interface IUnitOfWork : IDisposable
+    public interface IBookRepository : IBaseRepository<Book> 
     {
-        IBaseRepository<Author> Authors { get; }
-        IBookRepository Books { get; }
-
-        int Complete();
+        IEnumerable<Book> GetAllBooks();
     }
 }
