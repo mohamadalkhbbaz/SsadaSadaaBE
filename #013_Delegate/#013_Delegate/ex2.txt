@@ -1,0 +1,34 @@
+  public class Program
+    {
+        public delegate void FirstDelegate();
+        public delegate string SecoundDelegate(string location, string address);
+
+        static void Main(string[] args)
+        {
+            FirstDelegate firstDelegate = new FirstDelegate(PrintHello);
+
+            SecoundDelegate secoundDelegate = new SecoundDelegate(GetFullAddress);
+
+
+
+            firstDelegate.Invoke();
+            firstDelegate();
+
+            var fullAddress = secoundDelegate("baramkeh", "street 01");
+            var fullAddress2 = secoundDelegate("shaalan", "street 32");
+
+            Console.WriteLine(fullAddress);
+            Console.WriteLine("________________________ThE End_________________________________");
+        }
+
+
+        public static void PrintHello()
+        {
+            Console.WriteLine("HellooooDelegate");
+        }
+
+        public static string GetFullAddress(string location, string address)
+        {
+            return location + " , " + address;
+        }
+    }

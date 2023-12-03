@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\#014_Events\#014_Events\bin\Debug\net6.0\#014_Events.exe
+C:\Users\HP\source\repos\#014_Events\#014_Events\bin\Debug\net6.0\#014_Events.deps.json
+C:\Users\HP\source\repos\#014_Events\#014_Events\bin\Debug\net6.0\#014_Events.runtimeconfig.json
+C:\Users\HP\source\repos\#014_Events\#014_Events\bin\Debug\net6.0\#014_Events.dll
+C:\Users\HP\source\repos\#014_Events\#014_Events\bin\Debug\net6.0\#014_Events.pdb
+C:\Users\HP\source\repos\#014_Events\#014_Events\obj\Debug\net6.0\#014_Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\#014_Events\#014_Events\obj\Debug\net6.0\#014_Events.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\#014_Events\#014_Events\obj\Debug\net6.0\#014_Events.AssemblyInfo.cs
+C:\Users\HP\source\repos\#014_Events\#014_Events\obj\Debug\net6.0\#014_Events.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\#014_Events\#014_Events\obj\Debug\net6.0\#014_Events.dll
+C:\Users\HP\source\repos\#014_Events\#014_Events\obj\Debug\net6.0\refint\#014_Events.dll
+C:\Users\HP\source\repos\#014_Events\#014_Events\obj\Debug\net6.0\#014_Events.pdb
+C:\Users\HP\source\repos\#014_Events\#014_Events\obj\Debug\net6.0\#014_Events.genruntimeconfig.cache
+C:\Users\HP\source\repos\#014_Events\#014_Events\obj\Debug\net6.0\ref\#014_Events.dll

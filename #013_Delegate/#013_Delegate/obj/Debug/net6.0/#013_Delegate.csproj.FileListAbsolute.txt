@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\#013_Delegate\#013_Delegate\bin\Debug\net6.0\#013_Delegate.exe
+C:\Users\HP\source\repos\#013_Delegate\#013_Delegate\bin\Debug\net6.0\#013_Delegate.deps.json
+C:\Users\HP\source\repos\#013_Delegate\#013_Delegate\bin\Debug\net6.0\#013_Delegate.runtimeconfig.json
+C:\Users\HP\source\repos\#013_Delegate\#013_Delegate\bin\Debug\net6.0\#013_Delegate.dll
+C:\Users\HP\source\repos\#013_Delegate\#013_Delegate\bin\Debug\net6.0\#013_Delegate.pdb
+C:\Users\HP\source\repos\#013_Delegate\#013_Delegate\obj\Debug\net6.0\#013_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\#013_Delegate\#013_Delegate\obj\Debug\net6.0\#013_Delegate.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\#013_Delegate\#013_Delegate\obj\Debug\net6.0\#013_Delegate.AssemblyInfo.cs
+C:\Users\HP\source\repos\#013_Delegate\#013_Delegate\obj\Debug\net6.0\#013_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\#013_Delegate\#013_Delegate\obj\Debug\net6.0\#013_Delegate.dll
+C:\Users\HP\source\repos\#013_Delegate\#013_Delegate\obj\Debug\net6.0\refint\#013_Delegate.dll
+C:\Users\HP\source\repos\#013_Delegate\#013_Delegate\obj\Debug\net6.0\#013_Delegate.pdb
+C:\Users\HP\source\repos\#013_Delegate\#013_Delegate\obj\Debug\net6.0\#013_Delegate.genruntimeconfig.cache
+C:\Users\HP\source\repos\#013_Delegate\#013_Delegate\obj\Debug\net6.0\ref\#013_Delegate.dll
