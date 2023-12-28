@@ -17,4 +17,5 @@ obj
 packages
 **/bin/*
 **/obj/*
-**/vs/*
+/.vs/
+/.vs/slnx.sqlite
