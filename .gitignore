@@ -17,6 +17,6 @@ obj
 packages
 **/bin/*
 **/obj/*
+**/obj/
 /.vs/
 /.vs/slnx.sqlite
-/JWT_Start/JWT_Start/obj/Debug/net6.0/JWT_Start.csproj.FileListAbsolute.txt
