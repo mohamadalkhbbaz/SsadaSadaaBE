@@ -39,7 +39,7 @@ namespace JWT_Start
                     ValidateIssuerSigningKey = true,
                     ValidIssuer = configJwt["Issuer"],
                     ValidAudience = configJwt["Audience"],
-                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("YourSecretKey"))
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(configJwt["Key"]))
                 };
                 //Optional: Customize additional JWT Bearer options
                 o.RequireHttpsMetadata = false; //   to enforce HTTPS
