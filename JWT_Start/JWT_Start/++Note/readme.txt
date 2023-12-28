@@ -1,4 +1,4 @@
-Install-Package Microsoft.AspNetCore.Identity.EntityFrameworkCore -Version 6.0.12
+﻿Install-Package Microsoft.AspNetCore.Identity.EntityFrameworkCore -Version 6.0.12
 
 Install-Package Microsoft.EntityFrameworkCore -Version 6.0.12
 Install-Package Microsoft.EntityFrameworkCore.Design -Version 6.0.12
@@ -43,3 +43,52 @@ add in file settings :
   }
 
 get key from : https://www.javainuse.com/jwtgenerator
+
+
+
+
+
+55 Comments
+Mohamed Al Khabaz
+Add a comment...
+@Sweidatourism
+@Sweidatourism
+2 years ago
+من الكورسات الرائعة .. كل الشكر والتقدير لك ولجهدك المقدر
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> .... <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ 
+[Arabic - بالعربي] Secure ASP.NET Core API with JWT Authentication
+DevCreed
+
+01 What's JWT
+DevCreed
+
+02 Prepare Project
+DevCreed
+
+03 Create Database and Identity Tables
+DevCreed
+
+04 Seed Database With Needed Roles
+DevCreed
+
+05 Add JWT Configuration
+DevCreed
+06 Prepare Registration EndPoint
+DevCreed
+
+07 Registration EndPoint Part 2
+DevCreed
+
+08 Test Registration EndPoint
+DevCreed
+
+09 Add Login GetToken EndPoint
+DevCreed
+
+10 Assign User To Role
+DevCreed
+
+11 Protect Your EndPoints
+DevCreed

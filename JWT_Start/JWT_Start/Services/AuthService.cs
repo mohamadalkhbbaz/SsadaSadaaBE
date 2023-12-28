@@ -20,6 +20,27 @@ namespace JWT_Start.Services
             _jwtSetting = option.Value;
         }
 
+        public async Task<RegistrResultDto> GetToken(LoginInputDto dto)
+        {
+            var user = await _userManager.FindByEmailAsync(dto.Email);
+            if (user is null || !await _userManager.CheckPasswordAsync(user, dto.Password))
+                return new RegistrResultDto { Message = "Email Or Password Not Correct" };
+
+            var jwtToken = await CreateJwtToken(user);
+            var userRoles = await _userManager.GetRolesAsync(user);
+            var result = new RegistrResultDto
+            {
+                Email = user.Email,
+                UserName = user.UserName,
+                IsAuthentecated = true,
+                Roles = userRoles.ToList(),
+                Token = new JwtSecurityTokenHandler().WriteToken(jwtToken),
+                ExpireOn = jwtToken.ValidTo
+            };
+
+            return result;
+        }
+
         public async Task<RegistrResultDto> RegisrUser(RegistrInputDto dto)
         {
             if (await _userManager.FindByEmailAsync(dto.Email) is not null)

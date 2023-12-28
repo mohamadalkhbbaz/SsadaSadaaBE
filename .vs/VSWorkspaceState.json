@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\JWT_Start",
+    "\\JWT_Start\\JWT_Start",
+    "\\JWT_Start\\JWT_Start\\Services"
   ],
+  "SelectedNode": "\\JWT_Start\\JWT_Start\\Services\\AuthService.cs",
   "PreviewInSolutionExplorer": false
 }
